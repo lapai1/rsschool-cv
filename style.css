@@ -1,0 +1,17 @@
+p.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em
+}
+
+.wrapper {
+    width: 300px;
+    height: 300px;
+    border: 5px solid #515151;
+}
+
+.exmp3 img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
