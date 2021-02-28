@@ -1,2 +1,2 @@
 # rsschool-cv
-https://github.com/lapai1/rsschool-cv/index.html
+https://lapai1.github.io/rsschool-cv/cv
