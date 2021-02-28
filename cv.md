@@ -3,7 +3,7 @@
 Lapaev Daniil
 ## Contact:
 Phone: 89269134691 (use Telegram or WhatsApp)
-Gmail: danilfox2005@gmail.com
+Gmail:  danilfox2005@gmail.com
 ## About me:
 No work experience. I am studying at the university in the direction of Information systems. 
 feat: add social links
