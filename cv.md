@@ -1,5 +1,3 @@
-init: start rs-school education
-
 # CV
 ## About me:
 Lapaev Daniil
@@ -18,3 +16,4 @@ fix: the list didn't work
 
 ## English language:
 I graduated from English courses and passed the Cambridge A2 exam in 2018, and now I am studying for the B2 course.
+init: start rs-school education
